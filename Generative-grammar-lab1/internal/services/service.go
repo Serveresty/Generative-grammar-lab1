@@ -1,7 +1,7 @@
 package services
 
 import (
-	"GenerativeGrammar/internal/models"
+	"Generative-grammar-lab1/internal/models"
 	"math/rand"
 	"strings"
 )
