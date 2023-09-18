@@ -1,8 +1,8 @@
 package main
 
 import (
-	"GenerativeGrammar/internal/models"
-	"GenerativeGrammar/internal/services"
+	"Generative-Grammar-lab1/internal/models"
+	"Generative-Grammar-lab1/internal/services"
 	"fmt"
 )
 
