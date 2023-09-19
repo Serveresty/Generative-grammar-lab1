@@ -1,5 +1,7 @@
 # Theory-of-automata-and-formal-languages
 <h3> Generative-Grammar-LAB1</h3>
+<p>1 вариант</p>
+<p>Задание: Необходимо написать программу, выводящую на экран одно случайное слово языка для порождающей грамматики</p>
 <img src="https://github.com/Serveresty/Theory-of-automata-and-formal-languages/blob/main/Generative-grammar-lab1/resultsPNG/Screenshot_1.png">
 
 <h3> Finite-state-machines-lab2</h3>
