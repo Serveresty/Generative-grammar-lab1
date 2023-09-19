@@ -1,3 +1,6 @@
 go 1.21.0
 
-use ./Generative-grammar-lab1
+use (
+./Generative-grammar-lab1
+./finite-state-machines-lab2
+)
