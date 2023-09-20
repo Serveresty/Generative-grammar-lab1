@@ -9,3 +9,8 @@
 <p>Задание: Определить, принадлежит ли слово языку L над алфавитом Σ = {0, 1}, такому что все слова языка L начинаются на «00».</p>
 <img src="https://github.com/Serveresty/Theory-of-automata-and-formal-languages/blob/main/finite-state-machines-lab2/results/result.png">
 <img src="https://github.com/Serveresty/Theory-of-automata-and-formal-languages/blob/main/finite-state-machines-lab2/results/resultTests.jpg">
+
+<h3> Using-regular-expressions-lab4</h3>
+<p>Задание: Написать скрипт, который получает на вход название созданного файла, на выход выдает все телефонные номера, встречающиеся в этом файле (то есть на странице результатов поиска Яндекса)</p>
+<img src="https://github.com/Serveresty/Theory-of-automata-and-formal-languages/blob/main/Using-regular-expressions-lab4/results/res1.png">
+<img src="https://github.com/Serveresty/Theory-of-automata-and-formal-languages/blob/main/Using-regular-expressions-lab4/results/res2.png">
