@@ -10,6 +10,12 @@
 <img src="https://github.com/Serveresty/Theory-of-automata-and-formal-languages/blob/main/finite-state-machines-lab2/results/result.png">
 <img src="https://github.com/Serveresty/Theory-of-automata-and-formal-languages/blob/main/finite-state-machines-lab2/results/resultTests.jpg">
 
+<h3> Moore-and-Mealy-Automata-lab3</h3>
+<p>1 вариант</p>
+<p>Задание: Вендинговый автомат принимает монеты 1, 2, 5, 10 рублей. Товар стоит 2 рубля. Реализовать через автомат Мили.</p>
+<img src="https://github.com/Serveresty/Theory-of-automata-and-formal-languages/blob/main/Moore-and-Mealy-Automata-lab3/results/res.png">
+<img src="https://github.com/Serveresty/Theory-of-automata-and-formal-languages/blob/main/Moore-and-Mealy-Automata-lab3/results/res2.png">
+
 <h3> Using-regular-expressions-lab4</h3>
 <p>Задание: Написать скрипт, который получает на вход название созданного файла, на выход выдает все телефонные номера, встречающиеся в этом файле (то есть на странице результатов поиска Яндекса)</p>
 <img src="https://github.com/Serveresty/Theory-of-automata-and-formal-languages/blob/main/Using-regular-expressions-lab4/results/res1.png">
