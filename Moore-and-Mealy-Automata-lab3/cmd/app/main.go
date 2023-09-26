@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	var coins = []int{5, 10, 8}
+	var coins = []int{1, 1}
 	var price int = 2
 	results := services.Automata(coins, price)
 	fmt.Println(results)

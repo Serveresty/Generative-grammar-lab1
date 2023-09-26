@@ -8,6 +8,7 @@ require (
     Moore-and-Mealy-Automata-lab3
     Using-regular-expressions-lab4
     Creating-a-lexical-analyzer-lab5
+    Create-syntax-analyzer-lab6
 )
 
 replace (
@@ -16,4 +17,5 @@ finite-state-machines-lab2 ./finite-state-machines-lab2
 Moore-and-Mealy-Automata-lab3 ./Moore-and-Mealy-Automata-lab3
 Using-regular-expressions-lab4 ./Using-regular-expressions-lab4
 Creating-a-lexical-analyzer-lab5 ./Creating-a-lexical-analyzer-lab5
+Create-syntax-analyzer-lab6 ./Create-syntax-analyzer-lab6
 )

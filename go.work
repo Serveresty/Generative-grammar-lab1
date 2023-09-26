@@ -6,4 +6,5 @@ use (
 ./Moore-and-Mealy-Automata-lab3
 ./Using-regular-expressions-lab4
 ./Creating-a-lexical-analyzer-lab5
+./Create-syntax-analyzer-lab6
 )

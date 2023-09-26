@@ -15,12 +15,12 @@ func Automata(coins []int, price int) [][]string {
 			if currentState < price {
 				results = append(results, []string{strconv.Itoa(currentState), strconv.Itoa(elData) + "|-"})
 			} else {
-				currentState = 0
-				if price >= elData {
-					payback = strconv.Itoa(price - elData)
+				if price >= currentState {
+					payback = strconv.Itoa(price - currentState)
 				} else {
-					payback = strconv.Itoa(elData - price)
+					payback = strconv.Itoa(currentState - price)
 				}
+				currentState = 0
 				results = append(results, []string{strconv.Itoa(currentState), strconv.Itoa(elData) + "|" + payback})
 			}
 		} else {
