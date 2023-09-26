@@ -20,3 +20,7 @@
 <p>Задание: Написать скрипт, который получает на вход название созданного файла, на выход выдает все телефонные номера, встречающиеся в этом файле (то есть на странице результатов поиска Яндекса)</p>
 <img src="https://github.com/Serveresty/Theory-of-automata-and-formal-languages/blob/main/Using-regular-expressions-lab4/results/res1.png">
 <img src="https://github.com/Serveresty/Theory-of-automata-and-formal-languages/blob/main/Using-regular-expressions-lab4/results/res2.png">
+
+<h3> Creating-a-lexical-analyzer-lab5</h3>
+<p>Задание: Составить таблицу токенов. Для каждого типа токенов придумать и описать паттерн, которому соответствуют значения такого токена. Написать программу, которая будет получать на вход строку на C++, а на выход выдавать последовательность токенов</p>
+<img src="https://github.com/Serveresty/Theory-of-automata-and-formal-languages/blob/main/Creating-a-lexical-analyzer-lab5/results/res.png">
