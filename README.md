@@ -24,3 +24,4 @@
 <h3> Creating-a-lexical-analyzer-lab5</h3>
 <p>Задание: Составить таблицу токенов. Для каждого типа токенов придумать и описать паттерн, которому соответствуют значения такого токена. Написать программу, которая будет получать на вход строку на C++, а на выход выдавать последовательность токенов</p>
 <img src="https://github.com/Serveresty/Theory-of-automata-and-formal-languages/blob/main/Creating-a-lexical-analyzer-lab5/results/res.png">
+<img src="https://github.com/Serveresty/Theory-of-automata-and-formal-languages/blob/main/Creating-a-lexical-analyzer-lab5/results/table.png">
